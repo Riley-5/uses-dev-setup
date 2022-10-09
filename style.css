@@ -1,0 +1,23 @@
+#app-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	border-bottom: solid 1px black;
+}
+
+.component-heading {
+	text-decoration: underline;
+	margin-bottom: 0;
+}
+
+.list-title {
+	margin-bottom: 0;
+}
